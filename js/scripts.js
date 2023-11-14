@@ -631,7 +631,7 @@
 	Google Map Options
 */
 function initMap() {
-	var myLatlng = new google.maps.LatLng(48.859003, 2.345275); // <- Your latitude and longitude
+	var myLatlng = new google.maps.LatLng(23.154300, 79.907908); // <- Your latitude and longitude
 	var styles = [
 		{
 			"stylers": [
@@ -696,7 +696,7 @@ function initMap() {
 	]
 
 	var mapOptions = {
-		zoom: 16,
+		zoom: 19,
 		center: myLatlng,
 		mapTypeControl: false,
 		disableDefaultUI: true,

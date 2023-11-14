@@ -27,6 +27,8 @@
 /* - Basic */
 html {
 	margin-right: 0 !important;
+	/*scroll-behavior: smooth;*/
+
 }
 
 body {
